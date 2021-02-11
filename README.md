@@ -1,4 +1,4 @@
-# Prediction-of-COVID-19-Cases-in-Canada
+# Room-Occupancy-Detection
 
 The detection of room occupancy has in recent years become an important topic with applications in the energy efficiency of buildings, the implementation of security features, and the monitoring of residents for health and safety purposes. The objective of this project is to use data from temperature, humidity, light, and carbon dioxide sensors to detect when a room in an office building in Mons, Belgium is occupied. In other words, the goal is to use environmental conditions to detect room occupancy without the use of a camera (for privacy reasons). 
 
