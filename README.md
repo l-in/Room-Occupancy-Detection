@@ -4,7 +4,7 @@ The detection of room occupancy has in recent years become an important topic wi
 
 This project is based on the data set and analysis from *Accurate occupancy detection of an office room from light, temperature, humidity and CO2 measurements using statistical learning models* (Candanedo and Feldheim, 2016).  
 
-Note: variables and packages are underlined (ie. [variable] and [package]). 
+Note: variables and packages are surrounded by square bracketes (ie. [variable] and [package]). 
 
 ## The Dataset
 
